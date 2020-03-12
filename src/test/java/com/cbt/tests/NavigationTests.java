@@ -58,6 +58,7 @@ public class NavigationTests {
             StringUtility.verifyEquals(title2,driver.getTitle());
 
             driver.quit();
+
         }
 
 
